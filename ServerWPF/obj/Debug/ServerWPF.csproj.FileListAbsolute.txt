@@ -1,0 +1,17 @@
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\bin\Debug\Model.dll
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\bin\Debug\SimpleTCP.dll
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\bin\Debug\Model.pdb
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.lref
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\MainWindow.baml
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\ServerWPF\obj\Debug\ServerWPF.pdb

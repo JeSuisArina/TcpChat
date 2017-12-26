@@ -1,0 +1,12 @@
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\Model.Tests.dll
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\Model.Tests.pdb
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\Model.dll
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\Model.pdb
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\obj\Debug\Model.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\obj\Debug\Model.Tests.dll
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\obj\Debug\Model.Tests.pdb
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\ClientWPF.exe
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\ClientWPF.pdb
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model.Tests\bin\Debug\ClientWPF.exe.config

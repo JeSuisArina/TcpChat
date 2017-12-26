@@ -1,0 +1,5 @@
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model\bin\Debug\Model.dll
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model\bin\Debug\Model.pdb
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model\obj\Debug\Model.dll
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model\obj\Debug\Model.pdb
+C:\Users\Котя\documents\visual studio 2017\Projects\TcpChat\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
